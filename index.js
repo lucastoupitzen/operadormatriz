@@ -10,8 +10,8 @@ let resultSoma = new Soma(matrizA,matrizB)
 console.log(resultSoma)
 
 
-let matrizE = [[1,2],[3,4]]
-let matrizF = [[1,1],[1,1],[3,3]]
+let matrizE = [[1,2],[3,4],[4,5],[1,1]]
+let matrizF = [[1,1,3,2],[1,1,3,2]]
 
 let resultprod = new Produto(matrizE,matrizF)
 
